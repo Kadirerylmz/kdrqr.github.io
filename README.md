@@ -1,2 +1,1 @@
-# kdrqr.github.io
-Kdr
+
